@@ -1,0 +1,34 @@
+{
+  "challenge": "Oracles",
+  "version": "1.0",
+  "startedAt": "2026-09-13T19:13:31Z",
+  "completedAt": "2026-09-13T20:08:45Z",
+  "currentCheckpoint": null,
+  "currentQuestion": 0,
+  "checkpoints": {
+    "whitelist-oracle": {
+      "status": "completed",
+      "method": "skipped"
+    },
+    "staking-oracle": {
+      "status": "completed",
+      "method": "skipped"
+    },
+    "optimistic-overview": {
+      "status": "completed",
+      "method": "answered"
+    },
+    "optimistic-core": {
+      "status": "completed",
+      "method": "skipped"
+    },
+    "optimistic-rewards": {
+      "status": "completed",
+      "method": "skipped"
+    },
+    "optimistic-state": {
+      "status": "completed",
+      "method": "skipped"
+    }
+  }
+}
